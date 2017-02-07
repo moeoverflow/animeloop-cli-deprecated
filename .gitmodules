@@ -1,0 +1,3 @@
+[submodule "waifu2x-converter-glsl"]
+	path = waifu2x-converter-glsl
+	url = https://github.com/ShinCurry/waifu2x-converter-glsl.git

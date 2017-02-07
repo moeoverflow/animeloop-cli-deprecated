@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2775026BBBFD27CD2D0A39C31B08343D81314B94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DA3DC1D6264001DC037D36580B0631FE49812CD0" : 9223372036854775807,
+    "2775026BBBFD27CD2D0A39C31B08343D81314B94" : 9223372036854775807,
+    "3553291A2634321AA737AE64883CB83499D60B6C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "163F04E5-C3DC-4C30-916A-0B6A9054D13F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DA3DC1D6264001DC037D36580B0631FE49812CD0" : "animeloop\/waifu2x-converter-cpp\/",
+    "2775026BBBFD27CD2D0A39C31B08343D81314B94" : "animeloop\/",
+    "3553291A2634321AA737AE64883CB83499D60B6C" : "animeloop\/waifu2x-converter-glsl\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "animeloop",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "animeloop.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShinCurry\/animeloop.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2775026BBBFD27CD2D0A39C31B08343D81314B94"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ueshita\/waifu2x-converter-glsl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3553291A2634321AA737AE64883CB83499D60B6C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WL-Amigo\/waifu2x-converter-cpp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DA3DC1D6264001DC037D36580B0631FE49812CD0"
+    }
+  ]
+}
